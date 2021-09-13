@@ -1,4 +1,3 @@
-drop database if exits elections;
-
+DROP DATABASE IF EXISTS election;
 CREATE DATABASE election;
 USE election;
